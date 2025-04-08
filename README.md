@@ -24,12 +24,14 @@ About me
 🌟 Experienced in optimizing microservices architectures and delivering high-performance, scalable web applications.
 
 📚  Languages and Frameworks
+
 HTML, CSS, JavaScript, Typescript, TailwindCSS
 React.js, Next.js, Angular, Node.js, Express.js, AWS (Lambda, S3, Dynamodb, Amplify, API Gateway, EventBridge)
 Python, C#, C, .Net, Matlab, Java, Android SDK,
 PostgreSQL, MongoDB, Firebase Firestore, MS SQL Server
 
 🔧 Tools and Technologies
+
 Version Control Git, Azure)
 Terraform
 Docker
@@ -39,6 +41,7 @@ AI and Machine Learning (OpenAI, Gemini, Claude, Cohere)
 DevOps practices
 
 🔗 Get in touch
+
 Personal site: https://saheel-sarker.vercel.app/
 LinkedIn: https://www.linkedin.com/in/saheels/
 Email: saheel@ualberta.ca
