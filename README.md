@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 About me
-🔭 I'm currently looking for Full-stack Software Engineer roles.
+
+🔭 I'm currently looking for Full-stack Software Engineer roles
+
 👯 I'm looking to collaborate on React/Node.js based projects.
+
 🌟 Experienced in optimizing microservices architectures and delivering high-performance, scalable web applications.
 
 📚  Languages and Frameworks
