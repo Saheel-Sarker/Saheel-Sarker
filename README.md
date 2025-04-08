@@ -20,20 +20,14 @@
 ## 🛠️ Languages & Frameworks
 
 **Frontend:**  
-- HTML
-- CSS
-- JavaScript 
-- TypeScript 
-- React.js 
-- Next.js 
-- Angular
+- HTML, CSS, Bootstrap, Tailwind CSS
+- JavaScript, TypeScript 
+- React.js, Next.js, Angular
 
 **Backend:**  
-- Node.js 
-- Express.js 
-- .NET
+- Node.js, Express.js 
+- .NET, C#, C
 - Python 
-- C# 
 
 **Databases:**  
 - PostgreSQL 
@@ -46,7 +40,7 @@
 ## 🧰 Tools & Technologies
 
 - 🐳 Docker, Git, Azure, Terraform
-- 🧪 Optimizely (A/B testing), OCR Technology
+- 🧪 Optimization (A/B testing), OCR Technology, Matlab
 - 🤖 AI/ML APIs: OpenAI, Gemini, Claude, Cohere
 - ⚙️ DevOps Practices & CI/CD Pipelines
 
