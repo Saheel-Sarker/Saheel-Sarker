@@ -19,17 +19,17 @@
 
 ## 🛠️ Languages & Frameworks
 
-**Frontend:**  
+💻 **Frontend:**  
 - HTML, CSS, Bootstrap, Tailwind CSS
 - JavaScript, TypeScript 
 - React.js, Next.js, Angular
 
-**Backend:**  
+🤓 **Backend:**  
 - Node.js, Express.js 
 - .NET, C#, C
 - Python 
 
-**Databases:**  
+💾 **Databases:**  
 - PostgreSQL 
 - MongoDB
 - Firebase 
