@@ -6,7 +6,6 @@
   Full-Stack Software Engineer | Microservices | Scalable Systems | Cloud-Native Applications
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -14,8 +13,6 @@
 - 👯 I’m open to collaborating on **React/Node.js** based projects
 - 🌟 Passionate about building **high-performance, scalable web applications**
 - 💬 Experienced in **microservices architectures** and **cloud-native deployments**
-
----
 
 ## 🛠️ Languages & Frameworks
 
@@ -35,8 +32,6 @@
 - Firebase 
 - MS SQL Server 
 
----
-
 ## 🧰 Tools & Technologies
 
 - 🐳 Docker, Git, Azure, Terraform
@@ -44,16 +39,12 @@
 - 🤖 AI/ML APIs: OpenAI, Gemini, Claude, Cohere
 - ⚙️ DevOps Practices & CI/CD Pipelines
 
----
-
 ## 🔗 Get in Touch
 
 - 🌐 [Personal Site](https://saheel-sarker.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saheels)
 - 📧 saheel@ualberta.ca
 - 📍 Edmonton, Alberta
-
----
 
 <!-- Optional: GitHub Stats / Contribution Graph -->
 <!--
