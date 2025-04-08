@@ -1,6 +1,6 @@
 <!-- Banner or GIF -->
 
-<h1 align="center">Hi, I'm Saheel Sarker 👋 <span><img width="100" src="https://github.com/user-attachments/assets/fe907d37-df76-4d8a-9545-eb03d6b96cc4" alt="Welcome Banner" /></span></h1>
+<h1 align="center">Hi, I'm Saheel Sarker 👋 <span><img width="75" src="https://github.com/user-attachments/assets/fe907d37-df76-4d8a-9545-eb03d6b96cc4" alt="Welcome Banner" /></span></h1>
 
 <p align="center">
   Full-Stack Software Engineer | Microservices | Scalable Systems | Cloud-Native Applications
