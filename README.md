@@ -43,7 +43,7 @@
 
 - 🌐 [Personal Site](https://saheel-sarker.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saheels)
-- 📧 saheel@ualberta.ca
+- 📧 saheel.sarker@gmail.com
 - 📍 Edmonton, Alberta
 
 <!-- Optional: GitHub Stats / Contribution Graph -->
