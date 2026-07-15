@@ -25,7 +25,8 @@
 - Node.js, Express.js 
 - .NET, C#, C
 - Python 
-
+- PHP/Laravel
+  
 💾 **Databases:**  
 - PostgreSQL 
 - MongoDB
