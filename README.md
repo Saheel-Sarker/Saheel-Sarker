@@ -26,6 +26,7 @@
 - .NET, C#, C
 - Python 
 - PHP/Laravel
+- GraphQL
   
 💾 **Databases:**  
 - PostgreSQL 
